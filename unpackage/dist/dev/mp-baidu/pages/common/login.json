@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "用户登录",
+  "component": true,
+  "usingComponents": {
+    "iconfont": "/components/iconfont/iconfont"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "文章搜索",
+  "titleNView": false,
+  "navigationStyle": "custom",
+  "component": true,
+  "usingComponents": {
+    "iconfont": "/components/iconfont/iconfont",
+    "search": "/components/search/search",
+    "loading": "/components/loading/loading",
+    "no-data": "/components/noData/noData",
+    "article-list": "/components/article/list",
+    "page-loading": "/components/loading/pageLoading"
+  }
+}

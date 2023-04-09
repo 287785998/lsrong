@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人资料",
+  "component": true,
+  "usingComponents": {
+    "image-cropper": "/components/image/cropper",
+    "iconfont": "/components/iconfont/iconfont",
+    "page-loading": "/components/loading/pageLoading"
+  }
+}

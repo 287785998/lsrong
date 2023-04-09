@@ -1,0 +1,11 @@
+{
+  "titleNView": false,
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "disableScroll": true,
+  "navigationBarTitleText": "导航",
+  "usingComponents": {
+    "iconfont": "/components/iconfont/iconfont",
+    "page-loading": "/components/loading/pageLoading"
+  }
+}

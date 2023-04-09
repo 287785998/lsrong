@@ -1,0 +1,43 @@
+{
+    "appInfo": {},
+    "appid": "17767960",
+    "appkey": "",
+    "compilation-args": {
+        "common": {},
+        "options": [],
+        "selected": -1
+    },
+    "condition": {
+        "swan": {
+            "current": 2,
+            "list": [
+                {
+                    "id": 0,
+                    "name": "搜索",
+                    "pathName": "pages/article/search",
+                    "query": ""
+                },
+                {
+                    "id": 1,
+                    "name": "首页",
+                    "pathName": "pages/index/index",
+                    "query": ""
+                },
+                {
+                    "id": 2,
+                    "name": "详情",
+                    "pathName": "pages/article/detail",
+                    "query": "id=19"
+                }
+            ]
+        }
+    },
+    "libVersion": "",
+    "preview": {
+        "packageId": 1267600
+    },
+    "projectname": "新闻",
+    "setting": {
+        "urlCheck": false
+    }
+}

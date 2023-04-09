@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "我的",
+  "enablePullDownRefresh": true,
+  "component": true,
+  "usingComponents": {
+    "iconfont": "/components/iconfont/iconfont",
+    "page-loading": "/components/loading/pageLoading"
+  }
+}

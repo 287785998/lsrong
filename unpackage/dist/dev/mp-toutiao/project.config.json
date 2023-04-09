@@ -1,0 +1,36 @@
+{
+    "setting": {
+        "urlCheck": true,
+        "es6": false,
+        "postcss": false,
+        "minified": false,
+        "newFeature": true
+    },
+    "appid": "testAppId",
+    "projectname": "新闻",
+    "condition": {
+        "miniprogram": {
+            "current": -1,
+            "list": [
+                {
+                    "name": "搜索",
+                    "query": "",
+                    "id": 0,
+                    "pathName": "pages/article/search"
+                },
+                {
+                    "name": "首页",
+                    "query": "",
+                    "id": 1,
+                    "pathName": "pages/index/index"
+                },
+                {
+                    "name": "详情",
+                    "query": "id=19",
+                    "id": 2,
+                    "pathName": "pages/article/detail"
+                }
+            ]
+        }
+    }
+}

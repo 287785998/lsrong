@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "关于里奥模板",
+  "component": true,
+  "usingComponents": {
+    "iconfont": "/components/iconfont/iconfont"
+  }
+}

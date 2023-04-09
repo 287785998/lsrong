@@ -1,0 +1,56 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/navigation",
+    "pages/article/index",
+    "pages/article/list",
+    "pages/article/search",
+    "pages/article/detail",
+    "pages/user/index",
+    "pages/user/favorite",
+    "pages/user/favorites",
+    "pages/user/feedback",
+    "pages/user/setting",
+    "pages/user/profile",
+    "pages/user/password",
+    "pages/common/login",
+    "pages/wechat/miniAppLogin",
+    "pages/common/register",
+    "pages/common/protocol",
+    "pages/common/forget",
+    "pages/common/about"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "里奥模板",
+    "navigationBarBackgroundColor": "#409EFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#000000",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/nav/icon_home.png",
+        "selectedIconPath": "static/images/nav/icon_home_hover.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/index/navigation",
+        "iconPath": "static/images/nav/icon_favorite.png",
+        "selectedIconPath": "static/images/nav/icon_favorite_hover.png",
+        "text": "栏目"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "iconPath": "static/images/nav/icon_user.png",
+        "selectedIconPath": "static/images/nav/icon_user_hover.png",
+        "text": "联系"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

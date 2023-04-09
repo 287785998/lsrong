@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "意见建议",
+  "component": true,
+  "usingComponents": {
+    "iconfont": "/components/iconfont/iconfont"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "titleNView": false,
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "disableScroll": true,
+  "navigationBarTitleText": "文章频道",
+  "component": true,
+  "usingComponents": {
+    "iconfont": "/components/iconfont/iconfont",
+    "scroller": "/components/scroller/scroller",
+    "article-list": "/components/article/list",
+    "page-loading": "/components/loading/pageLoading"
+  }
+}
